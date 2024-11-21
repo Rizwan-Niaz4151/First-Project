@@ -1,2 +1,3 @@
 # First-Project
-This is my first project on githum
+This is my first Repository on Github.
+Author-Rizwan Niaz
